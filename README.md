@@ -16,7 +16,9 @@ Cada fallo está marcado en el código con `⚠️ FALLO A PROPÓSITO`.
 2. UserB arma una **copia temporal** (con sus migraciones y `seed.sql`), crea **usuarios de prueba** de cada tipo y de cada plan (Ana, Pedro, Gratis, Pro) y la recorre como lo harían ellos. Nunca toca datos reales y la copia se borra al terminar.
 3. Te entrega un informe con evidencia (pasos, respuestas, capturas) y un **plan de arreglo con prompts** para pegar en tu herramienta de IA.
 
-📄 Informe de ejemplo de este repo: _(se agrega al publicar el informe)_
+📄 Ejemplo de la **prueba gratis por URL** (11 pantallas, sobre la tienda demo con fallos móviles a propósito): https://userb.app/en/url/0e4c4fa3-dcbf-41af-be4a-59b8855de366
+
+🔒 El informe de la **auditoría completa** de este repo es privado (solo lo ve el dueño de la cuenta). Lo que encuentra: los 3 fallos de la tabla de arriba, con pasos, evidencia y un prompt de arreglo para cada uno.
 
 ## Correrla tú
 
